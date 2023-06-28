@@ -1,16 +1,15 @@
-### Hi there 👋
+### Seja bem vindo ao meu Perfil 👋
 
-<!--
-**Kallew123kk/Kallew123kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Meu nome é Kallew Hyrun
 
-Here are some ideas to get you started:
+  - Estou estudando no [Alura](https://www.alura.com.br/)
+  - Estou aprendendo aos poucos a Linguagem **JavaScript**
+  - Ultilizo este espaço para organizar e compartilhar meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+![](https://media.tenor.com/KDu5g3XZyVYAAAAC/subaru-like.gif)
