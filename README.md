@@ -3,7 +3,7 @@
  Meu nome é Kallew Hyrun
 
   - Estou estudando no [Alura](https://www.alura.com.br/)
-  - Estou aprendendo aos poucos a Linguagem **JavaScript**
+  - Estou aprendendo aos poucos a Linguagem ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   - Ultilizo este espaço para organizar e compartilhar meus projetos
 
 
